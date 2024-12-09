@@ -11,5 +11,5 @@
 ## About Me
 Answer the questions below
 * Something interesting about me is: I play all racket sports like badminton, tennis, and pickleball.
-* Ask Mr. Vu anything:
+* Ask Mr. Vu anything: did you always know you wanted to learn a lot of code or did you randomly get a revalation after doing a lot of math?
 * List your sports and extracurriculars you participate in
